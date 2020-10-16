@@ -58,7 +58,7 @@ sr.reveal('.home__img', {origin:'right', delay: 400})
 /* Scroll Profile */
 sr.reveal('.profile__img', {delay: 500})
 sr.reveal('.profile__subtitle', {delay: 300})
-sr.reveal('.profile__profession', {delay: 400})
+sr.reveal('.profile__nrp', {delay: 400})
 sr.reveal('.profile__text', {delay: 500})
 sr.reveal('.profile__social-icon', {delay: 600, interval: 200})
 

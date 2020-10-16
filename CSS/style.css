@@ -230,7 +230,7 @@ img{
 .profile__text{
     margin-bottom: var(--mb-4);
 }
-.profile__profession{
+.profile__nrp{
     display: block;
     margin-bottom: var(--mb-4);
 }
